@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-## 🔭 I’m currently working as PL/SQL developer
-## 🌱 Learning Machine Learning 🚀🚀🚀
+#####  🔭 I’m currently working as PL/SQL developer
+#####  🌱 Learning Machine Learning 🚀🚀🚀
 
 <!--
 **Shekin1/Shekin1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
